@@ -19,3 +19,4 @@
          var: uptime_output
          
          #this line is to test jenkins cdpipeline.
+# the jenkins cd/ci pipeline
